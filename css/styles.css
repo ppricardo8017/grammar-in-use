@@ -56,6 +56,12 @@ h2 {
     color: white;
 }
 
+.margenInf {
+    margin-bottom: 20px;
+    /* display: inline-block;
+    margin: auto; */
+}
+
 .title2 {
     padding: 15px;
     margin-bottom: 15px;
